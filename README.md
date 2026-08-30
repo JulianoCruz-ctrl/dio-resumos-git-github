@@ -8,7 +8,7 @@ Repositorio para armazenar resumos sobre git e github do curso de versionamento 
 
 | Aulas | Resumos |
 |-------|---------|
-| pesquisa| tópicos principais
+| pesquisa| tópico principal
 
 ```
 git init
